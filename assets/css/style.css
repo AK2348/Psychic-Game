@@ -1,0 +1,19 @@
+  
+
+h4 {
+    margin-left: 20px;
+    color: burlywood;
+    font-weight: bolder;
+  }
+
+.jumbotron {
+    padding-right: 320px;
+    color: burlywood;
+    background-color: gray;
+    margin: 0 .4rem .2rem;
+  }
+  html {
+    font-size: 1rem;
+  }
+  
+  
